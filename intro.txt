@@ -1,0 +1,23 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas
+operativos y en otros no?
+R: Porque un lenguaje de programación compila a lenguaje ensamblador el cual
+es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2
+cosas, de la arquitectura del procesador y la interpretación que le de el
+sistema operativo. Si en la computadora cambia la arquitectura del procesador
+es totalmente diferente y no va a correr.
+
+¿Qué tipo de máquina virtual soporta virtual box?
+Por medio de Virtual Box puede correrse maquinas tipo Mas OS C, 0S/2 Warp
+Windows, Solaris, MS-DOS, GNU/Linux, entre otros
+
+¿Qué función cumple el hypervisor en la virtualización?
+Un hypervisor es aquel que crea y ejecuta máquinas virtuales. Permite que 
+un ordenador host preste soporte a varias maquinas virtuales invitadas 
+mediante el uso compartido virtual de sus recursos, como la memoria y el 
+procesamiento. 
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a
+los demás? ¿por qué?
+Puede ocurrir que cuando se crean varias máquinas virtuales, y estas realizan
+operaciones de arranque al mismo tiempo, podrían aparecer errores durante la 
+recuperación basada en matriz y de vSphere Replication 
